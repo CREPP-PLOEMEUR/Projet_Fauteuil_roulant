@@ -1,3 +1,7 @@
+<!--# Fauteuil électrique -->
+<!--$ Mécatronique-->
+<!--$ DIY-->
+<!--% Un projet de motorisation de fauteuil électrique -->
 # Fauteuil Electrique
 
 ## Le projet 
